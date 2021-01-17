@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Clucas0311/nodePractice/issues"
   },
-  "homepage": "https://github.com/Clucas0311/nodePractice#readme"
+  "homepage": "https://github.com/Clucas0311/nodePractice#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
